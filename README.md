@@ -28,7 +28,7 @@ following attacks:
 - FGSM
 - SinglePixelAttack (you can use foolbox version 2.4.0)
 - SaliencyMapAttack (you can use foolbox version 2.4.0)
-- 
+  
 7. For each attack print the original image the crafted image and the noise in one row as done in the
 foolbox minimal example, i.e.
 ![image](https://github.com/user-attachments/assets/ec4b2c23-834c-4e48-b321-3d2526063de0)
